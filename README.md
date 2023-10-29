@@ -30,10 +30,9 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo==bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo==node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo==react)
-- 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo==mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo==mongodb)
-- ⚙️ &nbsp;
+
 
 ### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
