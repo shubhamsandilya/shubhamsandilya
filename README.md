@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo==bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo==node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo==react)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo==mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo==mongodb)
 - ⚙️ &nbsp;
 
 ### Some of the technologies I have worked with-</br>
