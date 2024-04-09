@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
-
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamsandilya&theme=dark&show_icons=true)
