@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo==react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo==mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo==mongodb)
+  ci ci-mongodb
 
 
 ### Some of the technologies I have worked with-</br>
