@@ -3,7 +3,7 @@
 An inquisitive person with a keen interest in various fields of computer science such as C++,DSA and Web development and actively seeking to explore these further. I am a passionate learner seeking a role in a company where I can contribute my ideas and be mentored towards a successful career.<br>
 ## 📫 How to reach me: 
 [![LinkedIn](https://raw.githubusercontent.com/username/repo/path/to/linkedin-icon.png)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://raw.githubusercontent.com/username/repo/path/to/github-icon.png)](https://github.com/your-username)(https://www.linkedin.com/in/shubham-sandilya-071ba4210/)) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/akhilgkrishnan](https://github.com/shubhamsandilya)) 
+[![GitHub](https://raw.githubusercontent.com/username/repo/path/to/github-icon.png)](https://github.com/your-username)([https://github.com/akhilgkrishnan](https://github.com/shubhamsandilya)) 
 <!--
 **AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
