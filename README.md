@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo==react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo==mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo==mongodb)
-  MongoDB Icon![image](https://github.com/shubhamsandilya/shubhamsandilya/assets/89679665/fe71c7e9-0136-47dd-ba88-4dfde8a97023)
 
 
 
