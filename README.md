@@ -47,12 +47,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=shubhamsandilya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### Some of the technologies I have worked with-</br>
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br></br></br>
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamsandilya&theme=radical&show_icons=true)
